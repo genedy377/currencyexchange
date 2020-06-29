@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Currency Exchanger</string>
+    <string name="cur_dollar">Dollar</string>
+    <string name="cur_egp">Egyptian Pound</string>
+    <string name="cur_euro">Euro</string>
+    <string name="cur_AED">United Emirates Dirham</string>
+    <string name="currency_not_selected">Choose Currency from Dropdown list</string>
+    <string name="type_currency_amount">Type Amount in</string>
+</resources>
